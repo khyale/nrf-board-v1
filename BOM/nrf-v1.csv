@@ -1,0 +1,18 @@
+"Part";"Value";"Device";"Package";"Description";"";
+"C1";"22pF";"UQCL2A220JAT2A/500";"CAPC1005X60N";"Capacitor 0402";"";
+"C2";"22pF";"UQCL2A220JAT2A/500";"CAPC1005X60N";"Capacitor 0402";"";
+"C3";"2.2nF";"UQCL2A220JAT2A/500";"CAPC1005X60N";"Capacitor 0402";"";
+"C4";"4.7pF";"UQCL2A220JAT2A/500";"CAPC1005X60N";"Capacitor 0402";"";
+"C5";"1.5pF";"UQCL2A220JAT2A/500";"CAPC1005X60N";"Capacitor 0402";"";
+"C6";"1pF";"C-EU01005";"C01005";"CAPACITOR, European symbol";"";
+"C7";"33nF";"UQCL2A220JAT2A/500";"CAPC1005X60N";"Capacitor 0402";"";
+"C8";"1nF";"UQCL2A220JAT2A/500";"CAPC1005X60N";"Capacitor 0402";"";
+"C9";"10nF";"UQCL2A220JAT2A/500";"CAPC1005X60N";"Capacitor 0402";"";
+"CONN1-PIN";"M04X2";"M04X2";"2X4";".1" header, two rows of four.";"";
+"CONN2-SMA";"BU-SMA-H";"BU-SMA-H";"BU-SMA-H";"FEMALE SMA CONNECTOR";"";
+"L1";"8.2nH";"INDUCTOR0402";"C0402";"Inductors";"";
+"L2";"2.7nH";"INDUCTOR0402";"C0402";"Inductors";"";
+"L3";"3.9nH";"INDUCTOR0402";"C0402";"Inductors";"";
+"R1";"22K";"TNPW040220K0BEED";"RESC1005X40N";"RESISTOR, 0402";"";
+"U1";"NRF24L01SMD";"NRF24L01SMD";"QFN20";"2.4GHz Low Power Transceiver";"";
+"X1";"16MHz";"CRYSTALTXC-7A";"CRYSTAL-TXC-7A";"Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00534";"";
